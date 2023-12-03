@@ -57,79 +57,214 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.0.0	/p6.0.20221218.0/
+0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	o	array:local
 0	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	array:local
 0	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	array:local
 0	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	array:local
-15729799797837862367	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o	object:outputs
-4614504638168534921	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o	object:outputs
+0	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	array:local
+0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	array:local
+0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	array:local
+0	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	o	array:local
+0	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	o	array:local
+1	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.0
+15729799797837862367	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o	object:outputs
+2	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.0
+3	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
+4614504638168534921	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o	object:outputs
+CheckDepInfo	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	o	object:local.0
 EX_1	src/day1/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day1ex1.txt");$/;"	C
+EX_1	src/day2/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day2ex1.txt");$/;"	C
 EX_2	src/day1/mod.rs	/^const EX_2: &'static str = include_str!("..\/data\/day1ex2.txt");$/;"	C
+Err	src/day2/mod.rs	/^    type Err = RGB_ERR;$/;"	t	implementation:RGB
+MAX_RGB	src/day2/mod.rs	/^const MAX_RGB: RGB = RGB { $/;"	C
 PT_1	src/day1/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day1p1.txt");$/;"	C
+PT_1	src/day2/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day2p1.txt");$/;"	C
+RGB	src/day2/mod.rs	/^impl FromStr for RGB {$/;"	c
+RGB	src/day2/mod.rs	/^impl RGB {$/;"	c
+RGB	src/day2/mod.rs	/^impl fmt::Display for RGB {$/;"	c
+RGB	src/day2/mod.rs	/^struct RGB {$/;"	s
+RGB_ERR	src/day2/mod.rs	/^impl fmt::Display for RGB_ERR {$/;"	c
+RGB_ERR	src/day2/mod.rs	/^struct RGB_ERR;$/;"	s
 SPELLED	src/day1/mod.rs	/^const SPELLED: [(&str, char); 9]  = [ $/;"	C
 VALID_MATCHES	src/day1/mod.rs	/^const VALID_MATCHES: [&str; 18] = [$/;"	C
-code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n	object:outputs.15729799797837862367
-code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n	object:outputs.4614504638168534921
+b	src/day2/mod.rs	/^    b: u32,$/;"	m	struct:RGB
+code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n	object:outputs.15729799797837862367
+code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n	object:outputs.4614504638168534921
+compile_kind	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+compile_kind	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+compile_kind	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
+config	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 config	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 config	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 config	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+config	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+config	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+config	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+config	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+config	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
 convert_digit	src/day1/mod.rs	/^fn convert_digit(s: &str) -> char {$/;"	f
 day1	src/main.rs	/^mod day1;$/;"	n
+day2	src/main.rs	/^mod day2;$/;"	n
+dep_info	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 deps	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 deps	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 deps	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+deps	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+deps	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+deps	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+deps	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	a
+deps	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	a
 ex_1	src/day1/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
+ex_1	src/day2/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
 ex_2	src/day1/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
+ex_2	src/day2/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
 example_1	src/day1/mod.rs	/^    fn example_1() {$/;"	f	module:tests
+example_1	src/day2/mod.rs	/^    fn example_1() {$/;"	f	module:tests
 example_2	src/day1/mod.rs	/^    fn example_2() {$/;"	f	module:tests
+example_2	src/day2/mod.rs	/^    fn example_2() {$/;"	f	module:tests
+features	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s
 features	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
 features	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
 features	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s
+features	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
+features	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s
+features	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
+features	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	s
+features	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	s
+fmt	src/day2/mod.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	P	implementation:RGB_ERR
+fmt	src/day2/mod.rs	/^    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {$/;"	P	implementation:RGB
+from_str	src/day2/mod.rs	/^    fn from_str(line: &str) -> Result<Self, RGB_ERR> {$/;"	P	implementation:RGB
+g	src/day2/mod.rs	/^    g: u32,$/;"	m	struct:RGB
+get_rgb_from_line	src/day2/mod.rs	/^fn get_rgb_from_line(line: &str) -> (u32, RGB) {$/;"	f
+is_valid	src/day2/mod.rs	/^    pub fn is_valid(&self) -> bool {$/;"	P	implementation:RGB
+local	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 local	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 local	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 local	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+local	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+local	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+local	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+local	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	a
+local	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	a
 main	src/main.rs	/^fn main() {$/;"	f
+metadata	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 metadata	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 metadata	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 metadata	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
-outputs	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o
+metadata	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+metadata	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+metadata	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+metadata	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+metadata	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o
+path	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 path	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 path	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 path	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+path	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+path	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+path	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+path	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+path	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
+power	src/day2/mod.rs	/^    pub fn power(&self) -> u32 {$/;"	P	implementation:RGB
+profile	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 profile	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 profile	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 profile	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+profile	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+profile	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+profile	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+profile	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+profile	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
 pt_1	src/day1/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
+pt_1	src/day2/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
+pt_2	src/day2/mod.rs	/^pub fn pt_2() -> u32 {$/;"	f
+r	src/day2/mod.rs	/^    r: u32,$/;"	m	struct:RGB
+rustc	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 rustc	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 rustc	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 rustc	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
-rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n
+rustc	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+rustc	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+rustc	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+rustc	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+rustc	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n
+rustflags	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+rustflags	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	a
+rustflags	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	a
 solve	src/day1/mod.rs	/^fn solve(s:&'static str) -> u32 {$/;"	f
-status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
+solve_1	src/day2/mod.rs	/^fn solve_1(s:&'static str) -> Result<u32, RGB_ERR> {$/;"	f
+solve_2	src/day2/mod.rs	/^fn solve_2(s:&'static str) -> u32 {$/;"	f
+status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
 str	src/day1/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day1ex1.txt");$/;"	v
 str	src/day1/mod.rs	/^const EX_2: &'static str = include_str!("..\/data\/day1ex2.txt");$/;"	v
 str	src/day1/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day1p1.txt");$/;"	v
-success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	b	object:outputs.15729799797837862367
-success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	b	object:outputs.4614504638168534921
-successes	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o
+str	src/day2/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day2ex1.txt");$/;"	v
+str	src/day2/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day2p1.txt");$/;"	v
+success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	b	object:outputs.15729799797837862367
+success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	b	object:outputs.4614504638168534921
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o
+target	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 target	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 target	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 target	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+target	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+target	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+target	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+target	target/debug/.fingerprint/project-root-4c258188399f9d61/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":6442736649/;"	n
+target	target/debug/.fingerprint/project-root-77a46706ee9eff71/lib-project-root.json	/^{"rustc":16895609601713598366,"features":"[]","target":14501871587673142019,"profile":1447320829/;"	n
 tests	src/day1/mod.rs	/^mod tests {$/;"	n
+tests	src/day2/mod.rs	/^mod tests {$/;"	n
 utils	src/main.rs	/^mod utils;$/;"	n
