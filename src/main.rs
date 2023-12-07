@@ -4,6 +4,8 @@ mod day1;
 mod day2;
 mod day3;
 mod day4;
+mod day5;
+mod day6;
 mod utils;
 
 fn main() {
@@ -28,9 +30,17 @@ fn main() {
     // println!("  p1 = {}", day3::pt_1());
     // println!("  e2 = {}", day3::ex_2());
     // println!("  p2 = {}", day3::pt_2());
-    println!("\nExecuting day 4 problems...");
+    // println!("\nExecuting day 4 problems...");
     // println!("  e1 = {}", day4::ex_1());
     // println!("  p1 = {}", day4::pt_1());
-    println!("  e2 = {}", day4::ex_2());
-    println!("  p2 = {}", day4::pt_2());
+    // println!("  e2 = {}", day4::ex_2());
+    // println!("  p2 = {}", day4::pt_2());
+    // println!("\nExecuting day 5 problems...");
+    // println!("  e1 = {}", day5::ex_1());
+    // println!("  p1 = {}", day4::pt_1());
+    println!("\nExecuting day 6 problems...");
+    // println!("  e1 = {}", day6::ex_1());
+    // println!("  p1 = {}", day6::pt_1());
+    println!("  e2 = {}", day6::ex_2());
+    println!("  p2 = {}", day6::pt_2());
 }

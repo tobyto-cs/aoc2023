@@ -66,6 +66,18 @@
 0	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
 0	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.1
 0	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	array:local
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.1
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.2
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.3
+0	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	array:local
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.1
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.2
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.3
+0	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	array:local
 0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a	array:deps
 0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n	array:deps.0
 0	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	o	array:local
@@ -92,6 +104,12 @@
 0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
 0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
 0	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	array:local
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.1
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.2
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.3
+0	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	array:local
 0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
 0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
 0	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	array:local
@@ -101,6 +119,18 @@
 0	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	o	array:local
 0	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	o	array:local
 0	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	o	array:local
+0	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	o	array:local
+0	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	o	array:local
+0	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	o	array:local
+0	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	o	array:local
+0	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a	array:deps
+0	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.0
+0	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.1
+0	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	o	array:local
+0	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a	array:deps
+0	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.0
+0	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.1
+0	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	o	array:local
 0	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	a	array:deps
 0	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n	array:deps.0
 0	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	o	array:local
@@ -211,6 +241,16 @@
 1	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
 1	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.0
 1	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.1
+1	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
+1	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.1
+1	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.2
+1	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.3
+1	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
+1	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.1
+1	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.2
+1	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.3
 1	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s	array:deps.0
 1	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
 1	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	array:deps.0
@@ -225,7 +265,18 @@
 1	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.1
 1	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.2
 1	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
+1	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.0
+1	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.1
+1	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.2
+1	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.3
 1	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	array:deps.0
+1	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a	array:deps
+1	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	array:deps.0
+1	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	array:deps.1
+1	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a	array:deps
+1	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	array:deps.0
+1	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	array:deps.1
 1	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	s	array:deps.0
 1	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	s	array:deps.0
 1	target/debug/.fingerprint/proc-macro2-7ae08742c55c6335/lib-proc-macro2.json	/^{"rustc":16895609601713598366,"features":"[\\"default\\", \\"proc-macro\\"]","target":1671489421/;"	a	array:deps
@@ -286,13 +337,24 @@
 1	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	s	array:deps.3
 1	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	s	array:deps.4
 1	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	s	array:deps.5
-15729799797837862367	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o	object:outputs
+14371922958718593042	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o	object:outputs
+15729799797837862367	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o	object:outputs
 2	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
 2	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.0
 2	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.1
 2	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.2
 2	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.0
 2	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.1
+2	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
+2	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.1
+2	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.2
+2	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.3
+2	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
+2	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.1
+2	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.2
+2	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.3
 2	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	b	array:deps.0
 2	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.0
 2	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	b	array:deps.1
@@ -306,7 +368,16 @@
 2	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.1
 2	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.2
 2	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
+2	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.0
+2	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.1
+2	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.2
+2	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.3
 2	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	b	array:deps.0
+2	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	b	array:deps.0
+2	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	b	array:deps.1
+2	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	b	array:deps.0
+2	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	b	array:deps.1
 2	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	b	array:deps.0
 2	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	b	array:deps.0
 2	target/debug/.fingerprint/proc-macro2-7ae08742c55c6335/lib-proc-macro2.json	/^{"rustc":16895609601713598366,"features":"[\\"default\\", \\"proc-macro\\"]","target":1671489421/;"	b	array:deps.0
@@ -369,6 +440,16 @@
 3	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.2
 3	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
 3	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.1
+3	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a	array:deps
+3	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.1
+3	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.2
+3	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.3
+3	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a	array:deps
+3	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.1
+3	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.2
+3	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.3
 3	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n	array:deps.0
 3	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.0
 3	target/debug/.fingerprint/aoc2023-7bd1909a813ecc9f/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n	array:deps.1
@@ -380,7 +461,16 @@
 3	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.1
 3	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.2
 3	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a	array:deps
+3	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
+3	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.1
+3	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.2
+3	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.3
 3	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n	array:deps.0
+3	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.0
+3	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.1
+3	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.0
+3	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n	array:deps.1
 3	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n	array:deps.0
 3	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n	array:deps.0
 3	target/debug/.fingerprint/proc-macro2-7ae08742c55c6335/lib-proc-macro2.json	/^{"rustc":16895609601713598366,"features":"[\\"default\\", \\"proc-macro\\"]","target":1671489421/;"	n	array:deps.0
@@ -433,11 +523,13 @@
 3	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	n	array:deps.5
 4	target/debug/.fingerprint/tracing-subscriber-40a71e5b2fc7aa6b/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	a	array:deps
 4	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	a	array:deps
-4614504638168534921	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o	object:outputs
+4614504638168534921	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o	object:outputs
 5	target/debug/.fingerprint/tracing-subscriber-40a71e5b2fc7aa6b/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	a	array:deps
 5	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	a	array:deps
 CheckDepInfo	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
@@ -447,6 +539,7 @@ CheckDepInfo	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json
 CheckDepInfo	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	o	object:local.0
@@ -454,6 +547,12 @@ CheckDepInfo	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_sta
 CheckDepInfo	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	o	object:local.0
@@ -490,6 +589,8 @@ EX_1	src/day1/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day1ex
 EX_1	src/day2/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day2ex1.txt");$/;"	C
 EX_1	src/day3/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day3ex1.txt");$/;"	C
 EX_1	src/day4/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day4ex1.txt");$/;"	C
+EX_1	src/day5/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day5ex1.txt");$/;"	C
+EX_1	src/day6/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day6ex1.txt");$/;"	C
 EX_2	src/day1/mod.rs	/^const EX_2: &'static str = include_str!("..\/data\/day1ex2.txt");$/;"	C
 Err	src/day2/mod.rs	/^    type Err = RGB_ERR;$/;"	t	implementation:RGB
 MAX_RGB	src/day2/mod.rs	/^const MAX_RGB: RGB = RGB { $/;"	C
@@ -497,6 +598,7 @@ PT_1	src/day1/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day1p1
 PT_1	src/day2/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day2p1.txt");$/;"	C
 PT_1	src/day3/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day3p1.txt");$/;"	C
 PT_1	src/day4/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day4p1.txt");$/;"	C
+PT_1	src/day6/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day6p1.txt");$/;"	C
 RGB	src/day2/mod.rs	/^impl FromStr for RGB {$/;"	c
 RGB	src/day2/mod.rs	/^impl RGB {$/;"	c
 RGB	src/day2/mod.rs	/^impl fmt::Display for RGB {$/;"	c
@@ -507,10 +609,13 @@ RerunIfChanged	target/debug/.fingerprint/proc-macro2-995670ff1c10d67f/run-build-
 SPELLED	src/day1/mod.rs	/^const SPELLED: [(&str, char); 9]  = [ $/;"	C
 VALID_MATCHES	src/day1/mod.rs	/^const VALID_MATCHES: [&str; 18] = [$/;"	C
 b	src/day2/mod.rs	/^    b: u32,$/;"	m	struct:RGB
-code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n	object:outputs.15729799797837862367
-code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n	object:outputs.4614504638168534921
+code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n	object:outputs.14371922958718593042
+code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n	object:outputs.15729799797837862367
+code	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n	object:outputs.4614504638168534921
 compile_kind	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -520,6 +625,7 @@ compile_kind	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json
 compile_kind	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+compile_kind	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 compile_kind	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 compile_kind	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 compile_kind	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -527,6 +633,12 @@ compile_kind	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_sta
 compile_kind	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 compile_kind	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 compile_kind	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+compile_kind	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+compile_kind	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+compile_kind	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+compile_kind	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+compile_kind	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+compile_kind	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 compile_kind	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 compile_kind	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 compile_kind	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -562,6 +674,8 @@ compile_kind	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-t
 compile_kind	target/debug/.fingerprint/unicode-ident-beabfcb2cd56cf90/lib-unicode-ident.json	/^{"rustc":16895609601713598366,"features":"[]","target":7243519288898877878,"profile":13178609178/;"	n
 config	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 config	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+config	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+config	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 config	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 config	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 config	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -571,6 +685,7 @@ config	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"r
 config	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 config	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 config	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+config	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 config	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 config	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 config	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -578,6 +693,12 @@ config	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.js
 config	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 config	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 config	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+config	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+config	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+config	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+config	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+config	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+config	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 config	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 config	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 config	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -616,8 +737,12 @@ day1	src/main.rs	/^mod day1;$/;"	n
 day2	src/main.rs	/^mod day2;$/;"	n
 day3	src/main.rs	/^mod day3;$/;"	n
 day4	src/main.rs	/^mod day4;$/;"	n
+day5	src/main.rs	/^mod day5;$/;"	n
+day6	src/main.rs	/^mod day6;$/;"	n
 dep_info	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
@@ -627,6 +752,7 @@ dep_info	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{
 dep_info	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	s	object:local.0.CheckDepInfo
@@ -634,6 +760,12 @@ dep_info	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.
 dep_info	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	s	object:local.0.CheckDepInfo
@@ -668,6 +800,8 @@ dep_info	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-traci
 dep_info	target/debug/.fingerprint/unicode-ident-beabfcb2cd56cf90/lib-unicode-ident.json	/^{"rustc":16895609601713598366,"features":"[]","target":7243519288898877878,"profile":13178609178/;"	s	object:local.0.CheckDepInfo
 deps	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 deps	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+deps	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+deps	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 deps	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 deps	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 deps	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
@@ -677,6 +811,7 @@ deps	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rus
 deps	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 deps	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 deps	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+deps	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 deps	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 deps	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	a
 deps	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	a
@@ -684,6 +819,12 @@ deps	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.json
 deps	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	a
 deps	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	a
 deps	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	a
+deps	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+deps	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+deps	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	a
+deps	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	a
+deps	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
+deps	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
 deps	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	a
 deps	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	a
 deps	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	a
@@ -721,16 +862,21 @@ ex_1	src/day1/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
 ex_1	src/day2/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
 ex_1	src/day3/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
 ex_1	src/day4/mod.rs	/^pub fn ex_1() -> u32 {$/;"	f
+ex_1	src/day5/mod.rs	/^pub fn ex_1() -> i32 {$/;"	f
+ex_1	src/day6/mod.rs	/^pub fn ex_1() -> i64 {$/;"	f
 ex_2	src/day1/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
 ex_2	src/day2/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
 ex_2	src/day3/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
 ex_2	src/day4/mod.rs	/^pub fn ex_2() -> u32 {$/;"	f
+ex_2	src/day6/mod.rs	/^pub fn ex_2() -> i64 {$/;"	f
 example_1	src/day1/mod.rs	/^    fn example_1() {$/;"	f	module:tests
 example_1	src/day2/mod.rs	/^    fn example_1() {$/;"	f	module:tests
 example_2	src/day1/mod.rs	/^    fn example_2() {$/;"	f	module:tests
 example_2	src/day2/mod.rs	/^    fn example_2() {$/;"	f	module:tests
 features	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
 features	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
+features	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
+features	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s
 features	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	s
 features	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
 features	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
@@ -740,6 +886,7 @@ features	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{
 features	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	s
 features	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s
 features	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	s
+features	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
 features	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	s
 features	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	s
 features	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	s
@@ -747,6 +894,12 @@ features	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.
 features	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	s
 features	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	s
 features	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	s
+features	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	s
+features	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	s
+features	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	s
+features	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	s
+features	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s
+features	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	s
 features	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	s
 features	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	s
 features	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	s
@@ -787,11 +940,14 @@ fmt	src/day2/mod.rs	/^    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Resu
 from_str	src/day2/mod.rs	/^    fn from_str(line: &str) -> Result<Self, RGB_ERR> {$/;"	P	implementation:RGB
 g	src/day2/mod.rs	/^    g: u32,$/;"	m	struct:RGB
 get_rgb_from_line	src/day2/mod.rs	/^fn get_rgb_from_line(line: &str) -> (u32, RGB) {$/;"	f
+get_winning_races	src/day6/mod.rs	/^fn get_winning_races(t: i64, d: i64) -> i64 {$/;"	f
 is_symbol	src/day3/mod.rs	/^fn is_symbol(c: char) -> bool {$/;"	f
 is_valid	src/day2/mod.rs	/^    pub fn is_valid(&self) -> bool {$/;"	P	implementation:RGB
 is_valid_pos	src/day3/mod.rs	/^fn is_valid_pos(pos: (usize, usize), row_max: usize, col_max: usize) -> bool {$/;"	f
 local	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 local	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+local	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+local	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 local	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 local	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 local	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
@@ -801,6 +957,7 @@ local	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"ru
 local	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 local	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 local	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+local	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 local	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 local	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	a
 local	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	a
@@ -808,6 +965,12 @@ local	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.jso
 local	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	a
 local	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	a
 local	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	a
+local	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+local	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+local	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	a
+local	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	a
+local	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
+local	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
 local	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	a
 local	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	a
 local	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	a
@@ -845,6 +1008,8 @@ main	src/main.rs	/^fn main() {$/;"	f
 matching	src/day4/mod.rs	/^fn matching(a: HashSet<u32>, b: HashSet<u32>) -> Option<u32> {$/;"	f
 metadata	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 metadata	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+metadata	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+metadata	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 metadata	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 metadata	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 metadata	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -854,6 +1019,7 @@ metadata	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{
 metadata	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 metadata	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 metadata	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+metadata	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 metadata	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 metadata	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 metadata	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -861,6 +1027,12 @@ metadata	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.
 metadata	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 metadata	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 metadata	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+metadata	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+metadata	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+metadata	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+metadata	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+metadata	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+metadata	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 metadata	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 metadata	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 metadata	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -894,13 +1066,20 @@ metadata	target/debug/.fingerprint/tracing-log-e55e1c16187e89ab/lib-tracing-log.
 metadata	target/debug/.fingerprint/tracing-subscriber-40a71e5b2fc7aa6b/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	n
 metadata	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	n
 metadata	target/debug/.fingerprint/unicode-ident-beabfcb2cd56cf90/lib-unicode-ident.json	/^{"rustc":16895609601713598366,"features":"[]","target":7243519288898877878,"profile":13178609178/;"	n
+my_i32	src/day5/mod.rs	/^fn my_i32(input : &str) -> IResult<&str, i32> {$/;"	f
 output	target/debug/.fingerprint/proc-macro2-995670ff1c10d67f/run-build-script-build-script-build.json	/^{"rustc":16895609601713598366,"features":"","target":0,"profile":0,"path":0,"deps":[[88713350132/;"	s	object:local.0.RerunIfChanged
-outputs	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o
 parse_file	src/day3/mod.rs	/^fn parse_file(s: &'static str) -> Vec<Vec<char>> {$/;"	f
 parse_id	src/day4/mod.rs	/^fn parse_id(s: Option<&str>) -> Option<u32> {$/;"	f
+parse_map	src/day5/mod.rs	/^fn parse_map(line: &str) -> Option<(Range<i32>, i32)> {$/;"	f
+parse_num	src/day6/mod.rs	/^fn parse_num(line: &str) -> Option<i64> {$/;"	f
 parse_nums	src/day4/mod.rs	/^fn parse_nums(s: Option<&str>) -> Option<HashSet<u32>> {$/;"	f
+parse_nums	src/day6/mod.rs	/^fn parse_nums(s: &str) -> Option<Vec<i64>> {$/;"	f
+parse_seeds	src/day5/mod.rs	/^fn parse_seeds(i: &str) -> IResult<&str, Vec<i32>> {$/;"	f
 path	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 path	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+path	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+path	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 path	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 path	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 path	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -910,6 +1089,7 @@ path	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"rus
 path	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 path	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 path	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+path	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 path	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 path	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 path	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -917,6 +1097,12 @@ path	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.json
 path	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 path	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 path	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+path	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+path	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+path	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+path	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+path	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+path	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 path	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 path	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 path	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -954,6 +1140,8 @@ paths	target/debug/.fingerprint/proc-macro2-995670ff1c10d67f/run-build-script-bu
 power	src/day2/mod.rs	/^    pub fn power(&self) -> u32 {$/;"	P	implementation:RGB
 profile	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 profile	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+profile	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+profile	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 profile	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 profile	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 profile	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -963,6 +1151,7 @@ profile	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"
 profile	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 profile	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 profile	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+profile	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 profile	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 profile	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 profile	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -970,6 +1159,12 @@ profile	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.j
 profile	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 profile	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 profile	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+profile	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+profile	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+profile	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+profile	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+profile	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+profile	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 profile	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 profile	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 profile	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -1007,12 +1202,16 @@ pt_1	src/day1/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
 pt_1	src/day2/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
 pt_1	src/day3/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
 pt_1	src/day4/mod.rs	/^pub fn pt_1() -> u32 {$/;"	f
+pt_1	src/day6/mod.rs	/^pub fn pt_1() -> i64 {$/;"	f
 pt_2	src/day2/mod.rs	/^pub fn pt_2() -> u32 {$/;"	f
 pt_2	src/day3/mod.rs	/^pub fn pt_2() -> u32 {$/;"	f
 pt_2	src/day4/mod.rs	/^pub fn pt_2() -> u32 {$/;"	f
+pt_2	src/day6/mod.rs	/^pub fn pt_2() -> i64 {$/;"	f
 r	src/day2/mod.rs	/^    r: u32,$/;"	m	struct:RGB
 rustc	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 rustc	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+rustc	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+rustc	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 rustc	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 rustc	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 rustc	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -1022,6 +1221,7 @@ rustc	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"ru
 rustc	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 rustc	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 rustc	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+rustc	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 rustc	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 rustc	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 rustc	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -1029,6 +1229,12 @@ rustc	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.jso
 rustc	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 rustc	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 rustc	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+rustc	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+rustc	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+rustc	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+rustc	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+rustc	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+rustc	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 rustc	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 rustc	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 rustc	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
@@ -1062,9 +1268,11 @@ rustc	target/debug/.fingerprint/tracing-log-e55e1c16187e89ab/lib-tracing-log.jso
 rustc	target/debug/.fingerprint/tracing-subscriber-40a71e5b2fc7aa6b/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	n
 rustc	target/debug/.fingerprint/tracing-subscriber-8cdefdd11eff05f0/lib-tracing-subscriber.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"ansi\\", \\"default\\", \\"fmt\\", \\/;"	n
 rustc	target/debug/.fingerprint/unicode-ident-beabfcb2cd56cf90/lib-unicode-ident.json	/^{"rustc":16895609601713598366,"features":"[]","target":7243519288898877878,"profile":13178609178/;"	n
-rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	n
 rustflags	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
@@ -1074,6 +1282,7 @@ rustflags	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^
 rustflags	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	a
+rustflags	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 rustflags	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	a
 rustflags	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	a
 rustflags	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	a
@@ -1081,6 +1290,12 @@ rustflags	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static
 rustflags	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	a
 rustflags	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	a
 rustflags	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	a
+rustflags	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+rustflags	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	a
+rustflags	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	a
+rustflags	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	a
+rustflags	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
+rustflags	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	a
 rustflags	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	a
 rustflags	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	a
 rustflags	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	a
@@ -1119,15 +1334,21 @@ solve	src/day1/mod.rs	/^fn solve(s:&'static str) -> u32 {$/;"	f
 solve_1	src/day2/mod.rs	/^fn solve_1(s:&'static str) -> Result<u32, RGB_ERR> {$/;"	f
 solve_1	src/day3/mod.rs	/^fn solve_1(s: &'static str) -> u32 {$/;"	f
 solve_1	src/day4/mod.rs	/^fn solve_1(s: &'static str) -> u32 {$/;"	f
+solve_1	src/day5/mod.rs	/^fn solve_1(s: &'static str) -> i32 {$/;"	f
+solve_1	src/day6/mod.rs	/^fn solve_1(s: &'static str) -> Option<i64> {$/;"	f
 solve_2	src/day2/mod.rs	/^fn solve_2(s:&'static str) -> u32 {$/;"	f
 solve_2	src/day3/mod.rs	/^fn solve_2(s: &'static str) -> u32 {$/;"	f
 solve_2	src/day4/mod.rs	/^fn solve_2(s: &'static str) -> u32 {$/;"	f
-status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.15729799797837862367
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
+solve_2	src/day6/mod.rs	/^fn solve_2(s: &'static str) -> Option<i64> {$/;"	f
+status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.14371922958718593042
+status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+status	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.14371922958718593042
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.14371922958718593042
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.15729799797837862367
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	s	object:outputs.4614504638168534921
 str	src/day1/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day1ex1.txt");$/;"	v
 str	src/day1/mod.rs	/^const EX_2: &'static str = include_str!("..\/data\/day1ex2.txt");$/;"	v
 str	src/day1/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day1p1.txt");$/;"	v
@@ -1137,11 +1358,17 @@ str	src/day3/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day3ex1
 str	src/day3/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day3p1.txt");$/;"	v
 str	src/day4/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day4ex1.txt");$/;"	v
 str	src/day4/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day4p1.txt");$/;"	v
-success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	b	object:outputs.15729799797837862367
-success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	b	object:outputs.4614504638168534921
-successes	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"4614504638168534921":{"success":true,"statu/;"	o
+str	src/day5/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day5ex1.txt");$/;"	v
+str	src/day6/mod.rs	/^const EX_1: &'static str = include_str!("..\/data\/day6ex1.txt");$/;"	v
+str	src/day6/mod.rs	/^const PT_1: &'static str = include_str!("..\/data\/day6p1.txt");$/;"	v
+success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	b	object:outputs.14371922958718593042
+success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	b	object:outputs.15729799797837862367
+success	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	b	object:outputs.4614504638168534921
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":7556697534793925602,"outputs":{"15729799797837862367":{"success":true,"stat/;"	o
 target	target/debug/.fingerprint/aoc2023-0bcfdf3871804eae/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 target	target/debug/.fingerprint/aoc2023-2ab25ff11b8c98f5/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
+target	target/debug/.fingerprint/aoc2023-2affda675aac3a87/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
+target	target/debug/.fingerprint/aoc2023-3443091b4628f71e/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 target	target/debug/.fingerprint/aoc2023-3c02d61c09d3d6a3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":16741232958/;"	n
 target	target/debug/.fingerprint/aoc2023-661d060f612b6a9c/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 target	target/debug/.fingerprint/aoc2023-731c1284cffaf9d3/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
@@ -1151,6 +1378,7 @@ target	target/debug/.fingerprint/aoc2023-82912e2da0086af6/bin-aoc2023.json	/^{"r
 target	target/debug/.fingerprint/aoc2023-90e6e9138697e208/test-bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":18326522262/;"	n
 target	target/debug/.fingerprint/aoc2023-9666a4eff87daa98/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
 target	target/debug/.fingerprint/aoc2023-a4c2d8ff7b8b0b40/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":11039742474/;"	n
+target	target/debug/.fingerprint/aoc2023-aa64443dd32bd32a/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 target	target/debug/.fingerprint/aoc2023-ba507a2bc13870c4/bin-aoc2023.json	/^{"rustc":16895609601713598366,"features":"[]","target":7673664477159435065,"profile":13126374248/;"	n
 target	target/debug/.fingerprint/cfg-if-292db5e7ed008e20/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":6442736649/;"	n
 target	target/debug/.fingerprint/cfg-if-99a6221ed22cb7f5/lib-cfg-if.json	/^{"rustc":16895609601713598366,"features":"[]","target":10623512480563079566,"profile":1447320829/;"	n
@@ -1158,6 +1386,12 @@ target	target/debug/.fingerprint/lazy_static-4b432e5b47262c38/lib-lazy_static.js
 target	target/debug/.fingerprint/lazy_static-aba5bf807e81a326/lib-lazy_static.json	/^{"rustc":16895609601713598366,"features":"[]","target":1623840821729021818,"profile":14473208297/;"	n
 target	target/debug/.fingerprint/log-16c933ef51ebe75b/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":14/;"	n
 target	target/debug/.fingerprint/log-27d1dc50ab631e5f/lib-log.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":4487324886529943577,"profile":64/;"	n
+target	target/debug/.fingerprint/memchr-5e57e0524d3c8f77/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+target	target/debug/.fingerprint/memchr-78fc79c0a3b81b4c/lib-memchr.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"std\\"]","target":1387644373022017250/;"	n
+target	target/debug/.fingerprint/minimal-lexical-18d50f7b7975fcda/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":14/;"	n
+target	target/debug/.fingerprint/minimal-lexical-3e0b6bbfa6dba853/lib-minimal-lexical.json	/^{"rustc":16895609601713598366,"features":"[\\"std\\"]","target":1009644266440026082,"profile":64/;"	n
+target	target/debug/.fingerprint/nom-63cd33dd226322da/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
+target	target/debug/.fingerprint/nom-63d79b11886b4606/lib-nom.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"std\\"]","target":1745/;"	n
 target	target/debug/.fingerprint/nu-ansi-term-66d2d56e573fbcdf/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":1447320829/;"	n
 target	target/debug/.fingerprint/nu-ansi-term-ad685bf8d3990298/lib-nu-ansi-term.json	/^{"rustc":16895609601713598366,"features":"[]","target":16053051918432991110,"profile":6442736649/;"	n
 target	target/debug/.fingerprint/once_cell-137a3df89f53467e/lib-once_cell.json	/^{"rustc":16895609601713598366,"features":"[\\"alloc\\", \\"default\\", \\"race\\", \\"std\\"]","/;"	n
